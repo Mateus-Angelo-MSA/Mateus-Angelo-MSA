@@ -9,7 +9,7 @@
 -->
 <img src="https://wallpaperaccess.com/full/19353.jpg" width="500px" heigth="500px" alt="Astronauta no Espaço">
 <br>
-<p>Eu sou <b>MSN(Mateus Santos Angelo)</b>, cheguei nesse 🌎mundo no ano de 2001🌎.<br>
+<p>Eu sou <b>MSA(Mateus Santos Angelo)</b>, cheguei nesse 🌎mundo no ano de 2001🌎.<br>
   Sou um Estudante e apaixonado por <em>**programação**</em> e desafios.🚀🚀<p>
 - Atualmente eu estou estudando, mas pronto para botar a mão no código.👨🏼‍💻👨🏼‍💻<br>
 - Estou aprendendo **<strong>Programação Web</strong>**(Html, CSS, Javascript).<br>
